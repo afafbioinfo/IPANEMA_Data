@@ -1,0 +1,277 @@
+Use of an existing sample for 1000 Structures
+RNAId  	5SRNA,E.Coli
+Sample construction from the Probing conditions ['5SRNA,E.ColiCMCT']
+Distance Matrix gneration for  1000 Structures started 
+Warning! redundant structures
+End of distance calculation between the structures in the sample                                               6.895176	
+Start Conditional  Boltzmann Probabilities calculation
+Boltzmann probabilities Calculated with success in :                                               0.214950	
+Start clustering process
+CLusters Diameters 	Cluster Number 	Diameter
+Cluster_Diameter 	0 	66
+Average distance 66.0
+MEA algorithm is running for ClusterNumber 0
+End of MEA                                              0.224957	
+Centroids calculation is done
+Cluster distances
+BZ_distance_btw_clusters 	defaultdict(None, {0: 182.56714044643081})
+***************************************verification bz Cluster  	 Centroids  	 CumulBE 	  defaultdict(None, {0: '(((((((((((((...)))).(((...))).((((((((((...((.((...(((..((...))..)))...)))).))))))))))((((..(((....))))))).))))))))).'}) {0: 1.0000000000000029}
+************ Start clustering with 2  clusters*****************
+nbr_clusters 	2
+CLusters Diameters 	Cluster Number 	Diameter
+Cluster_Diameter 	0 	37
+Cluster_Diameter 	1 	65
+Average distance 51.0
+MEA algorithm is running for ClusterNumber 0
+End of MEA                                              0.217049	
+MEA algorithm is running for ClusterNumber 1
+End of MEA                                              0.225347	
+Centroids calculation is done
+Cluster distances
+BP_centoid_distances 	0 	1 	17
+BZ_distance_btw_clusters 	defaultdict(None, {0: 110.29661800185556, 1: 194.58956313007377})
+************************************* Clustering done with  2  as the optimal number of clusters*********************************************************************
+defaultdict(None, {0: '(((((((((((((...)))).(((...))).((((((((((...((.((...(((..((...))..)))...)))).))))))))))((((..(((....))))))).))))))))).', 1: '(((((((((((((...)))).(((...))).((((((((((.....(((....)))...(((((.......))))).))))))))))((((..(((....))))))).))))))))).'})
+(((((((((((((...)))).(((...))).((((((((((...((.((...(((..((...))..)))...)))).))))))))))((((..(((....))))))).))))))))).
+(((((((((((((...)))).(((...))).((((((((((.....(((....)))...(((((.......))))).))))))))))((((..(((....))))))).))))))))).
+Centroids_Energies 	['-50.20', '-49.40']
+Considered conditions:  [1]
+Considered conditions:  [1]
+verification pareto values
+Cardinal condition values [1, 1]
+Cumulated Boltzmann 	[0.6301768371854386, 0.36982316281456173]
+The elected clusters figuring in the Pareto front [0]
+output_plots/5SRNA,E.Coli.nonoptimals houpppppp
+Multiprobing/5SRNA,E.Coli.optimals houpppppp
+ IPANMAP has been run successfully
+End of RNAstruct run for a sampling of 5SRNA,E.Coli rna   1000 structure for 1  conditions:                                             29.948824	
+RNAId  	glycineriboswitch,F.nucleatum
+Sample construction from the Probing conditions ['glycineriboswitch,F.nucleatumCMCT']
+Distance Matrix gneration for  1000 Structures started 
+Warning! redundant structures
+End of distance calculation between the structures in the sample                                               6.245183	
+Start Conditional  Boltzmann Probabilities calculation
+Boltzmann probabilities Calculated with success in :                                               0.211193	
+Start clustering process
+CLusters Diameters 	Cluster Number 	Diameter
+Cluster_Diameter 	0 	91
+Average distance 91.0
+MEA algorithm is running for ClusterNumber 0
+End of MEA                                              0.487261	
+Centroids calculation is done
+Cluster distances
+BZ_distance_btw_clusters 	defaultdict(None, {0: 118.39099359818491})
+***************************************verification bz Cluster  	 Centroids  	 CumulBE 	  defaultdict(None, {0: '((((((((......((((((....)))))).((((((((......)))))..)))........))))))))........(((((......((((((...)))))).(((...((((....((((....)))).....))))..))).......)))))'}) {0: 0.99999999999999989}
+************ Start clustering with 2  clusters*****************
+nbr_clusters 	2
+CLusters Diameters 	Cluster Number 	Diameter
+Cluster_Diameter 	0 	44
+Cluster_Diameter 	1 	91
+Average distance 67.5
+MEA algorithm is running for ClusterNumber 0
+End of MEA                                              0.495696	
+MEA algorithm is running for ClusterNumber 1
+End of MEA                                              0.489767	
+Centroids calculation is done
+Cluster distances
+BP_centoid_distances 	0 	1 	23
+BZ_distance_btw_clusters 	defaultdict(None, {0: 59.878600461783776, 1: 135.04653911661558})
+************************************* Clustering done with  2  as the optimal number of clusters*********************************************************************
+defaultdict(None, {0: '((((((((......((((((....)))))).((((((((......)))))..)))........))))))))........(((((......((((((...)))))).(((...((((....((((....)))).....))))..))).......)))))', 1: '((((((((......((((((....)))))).((((((((......)))))..)))........))))))))(..(..((((...(((((.((((((...))))))...............((((....)))).....)))))))))....)..)....'})
+((((((((......((((((....)))))).((((((((......)))))..)))........))))))))........(((((......((((((...)))))).(((...((((....((((....)))).....))))..))).......)))))
+((((((((......((((((....)))))).((((((((......)))))..)))........))))))))(..(..((((...(((((.((((((...))))))...............((((....)))).....)))))))))....)..)....
+Centroids_Energies 	['-27.10', '-26.20']
+Considered conditions:  [1]
+Considered conditions:  [1]
+verification pareto values
+Cardinal condition values [1, 1]
+Cumulated Boltzmann 	[0.48131106659096717, 0.51868893340903377]
+The elected clusters figuring in the Pareto front [1]
+output_plots/glycineriboswitch,F.nucleatum.nonoptimals houpppppp
+Multiprobing/glycineriboswitch,F.nucleatum.optimals houpppppp
+ IPANMAP has been run successfully
+End of RNAstruct run for a sampling of glycineriboswitch,F.nucleatum rna   1000 structure for 1  conditions:                                             32.094249	
+RNAId  	cidGMPriboswitch,V.Cholerae
+Sample construction from the Probing conditions ['cidGMPriboswitch,V.CholeraeCMCT']
+Distance Matrix gneration for  1000 Structures started 
+Warning! redundant structures
+End of distance calculation between the structures in the sample                                              10.542553	
+Start Conditional  Boltzmann Probabilities calculation
+Boltzmann probabilities Calculated with success in :                                               0.192869	
+Start clustering process
+CLusters Diameters 	Cluster Number 	Diameter
+Cluster_Diameter 	0 	29
+Average distance 29.0
+MEA algorithm is running for ClusterNumber 0
+End of MEA                                              0.123801	
+Centroids calculation is done
+Cluster distances
+BZ_distance_btw_clusters 	defaultdict(None, {0: 25.43180825024082})
+***************************************verification bz Cluster  	 Centroids  	 CumulBE 	  defaultdict(None, {0: '...((...((((...((((((....))))))...))..((((.(((((((..((((.......))))))))..))))))).))....))......'}) {0: 1.0000000000000075}
+************ Start clustering with 2  clusters*****************
+nbr_clusters 	2
+CLusters Diameters 	Cluster Number 	Diameter
+Cluster_Diameter 	0 	29
+Cluster_Diameter 	1 	10
+Average distance 19.5
+MEA algorithm is running for ClusterNumber 0
+End of MEA                                              0.122846	
+MEA algorithm is running for ClusterNumber 1
+End of MEA                                              0.146331	
+Centroids calculation is done
+Cluster distances
+BP_centoid_distances 	0 	1 	7
+BZ_distance_btw_clusters 	defaultdict(None, {0: 39.675964185339495, 1: 12.334884856510364})
+************************************* Clustering done with  2  as the optimal number of clusters*********************************************************************
+defaultdict(None, {0: '...((...((((...((((((....))))))...))...((((((.((((..((((.......)))))))).).)))))..))....))......', 1: '...((...((((...((((((....))))))...))..((((.(((((((..((((.......))))))))..))))))).))....))......'})
+...((...((((...((((((....))))))...))...((((((.((((..((((.......)))))))).).)))))..))....))......
+...((...((((...((((((....))))))...))..((((.(((((((..((((.......))))))))..))))))).))....))......
+Centroids_Energies 	['-27.40', '-28.30']
+Considered conditions:  [1]
+Considered conditions:  [1]
+verification pareto values
+Cardinal condition values [1, 1]
+Cumulated Boltzmann 	[0.46700880016845847, 0.53299119983154164]
+The elected clusters figuring in the Pareto front [1]
+output_plots/cidGMPriboswitch,V.Cholerae.nonoptimals houpppppp
+Multiprobing/cidGMPriboswitch,V.Cholerae.optimals houpppppp
+ IPANMAP has been run successfully
+End of RNAstruct run for a sampling of cidGMPriboswitch,V.Cholerae rna   1000 structure for 1  conditions:                                             28.276117	
+RNAId  	P4P6domain
+Sample construction from the Probing conditions ['P4P6domainCMCT']
+Distance Matrix gneration for  1000 Structures started 
+Warning! redundant structures
+End of distance calculation between the structures in the sample                                               6.308034	
+Start Conditional  Boltzmann Probabilities calculation
+Boltzmann probabilities Calculated with success in :                                               0.204999	
+Start clustering process
+CLusters Diameters 	Cluster Number 	Diameter
+Cluster_Diameter 	0 	47
+Average distance 47.0
+MEA algorithm is running for ClusterNumber 0
+End of MEA                                              0.468330	
+Centroids calculation is done
+Cluster distances
+BZ_distance_btw_clusters 	defaultdict(None, {0: 101.13672672613602})
+***************************************verification bz Cluster  	 Centroids  	 CumulBE 	  defaultdict(None, {0: '((..(((((((...(((((((....(((.(((((((((.(((((((((....))))))))).(((((....))))).)))).....))))))))...)))))))..)).)))))))..((((...(((((((((...)))))))))..))))........'}) {0: 0.99999999999999956}
+************ Start clustering with 2  clusters*****************
+nbr_clusters 	2
+CLusters Diameters 	Cluster Number 	Diameter
+Cluster_Diameter 	0 	18
+Cluster_Diameter 	1 	47
+Average distance 32.5
+MEA algorithm is running for ClusterNumber 0
+End of MEA                                              0.474662	
+MEA algorithm is running for ClusterNumber 1
+End of MEA                                              0.471808	
+Centroids calculation is done
+Cluster distances
+BP_centoid_distances 	0 	1 	4
+BZ_distance_btw_clusters 	defaultdict(None, {0: 68.003324424787749, 1: 190.36985495632337})
+************************************* Clustering done with  2  as the optimal number of clusters*********************************************************************
+defaultdict(None, {0: '((..(((((((...(((((((....(((.(((((((((.(((((((((....))))))))).(((((....))))).)))).....))))))))...)))))))..)).)))))))..((((...(((((((((...)))))))))..))))........', 1: '.(...((((((...(((((((....(((.((((((((..(((((((((....))))))))).(((((....)))))..))).....))))))))...)))))))..)).)))).)...((((.(.(((((((((...))))))))).)))))........'})
+((..(((((((...(((((((....(((.(((((((((.(((((((((....))))))))).(((((....))))).)))).....))))))))...)))))))..)).)))))))..((((...(((((((((...)))))))))..))))........
+.(...((((((...(((((((....(((.((((((((..(((((((((....))))))))).(((((....)))))..))).....))))))))...)))))))..)).)))).)...((((.(.(((((((((...))))))))).)))))........
+Centroids_Energies 	[]
+Considered conditions:  [1]
+Considered conditions:  []
+verification pareto values
+Cardinal condition values [1, 0]
+Cumulated Boltzmann 	[0.69262448932941811, 0.30737551067058055]
+The elected clusters figuring in the Pareto front [0]
+output_plots/P4P6domain.nonoptimals houpppppp
+Multiprobing/P4P6domain.optimals houpppppp
+ IPANMAP has been run successfully
+End of RNAstruct run for a sampling of P4P6domain rna   1000 structure for 1  conditions:                                             33.977953	
+RNAId  	adenineriboswitch,add
+Sample construction from the Probing conditions ['adenineriboswitch,addCMCT']
+Distance Matrix gneration for  1000 Structures started 
+Warning! redundant structures
+End of distance calculation between the structures in the sample                                              38.919693	
+Start Conditional  Boltzmann Probabilities calculation
+Boltzmann probabilities Calculated with success in :                                               0.195959	
+Start clustering process
+CLusters Diameters 	Cluster Number 	Diameter
+Cluster_Diameter 	0 	37
+Average distance 37.0
+MEA algorithm is running for ClusterNumber 0
+End of MEA                                              0.060660	
+Centroids calculation is done
+Cluster distances
+BZ_distance_btw_clusters 	defaultdict(None, {0: 14.863340483111012})
+***************************************verification bz Cluster  	 Centroids  	 CumulBE 	  defaultdict(None, {0: '(((((((((...((((((.........))))))((....))((((((.......))))))..))))))))).'}) {0: 0.99999999999999989}
+************ Start clustering with 2  clusters*****************
+nbr_clusters 	2
+CLusters Diameters 	Cluster Number 	Diameter
+Cluster_Diameter 	0 	21
+Cluster_Diameter 	1 	30
+Average distance 25.5
+MEA algorithm is running for ClusterNumber 0
+End of MEA                                              0.061478	
+MEA algorithm is running for ClusterNumber 1
+End of MEA                                              0.060555	
+Centroids calculation is done
+Cluster distances
+BP_centoid_distances 	0 	1 	21
+BZ_distance_btw_clusters 	defaultdict(None, {0: 11.835430854543738, 1: 46.272744821956863})
+************************************* Clustering done with  2  as the optimal number of clusters*********************************************************************
+defaultdict(None, {0: '(((((((((...((((((.........))))))((....))((((((.......))))))..))))))))).', 1: '(((((((((..(((..........(((((..(.((....)))..)))))..........)))))))))))).'})
+(((((((((...((((((.........))))))((....))((((((.......))))))..))))))))).
+(((((((((..(((..........(((((..(.((....)))..)))))..........)))))))))))).
+Centroids_Energies 	[]
+Considered conditions:  [1]
+Considered conditions:  []
+verification pareto values
+Cardinal condition values [1, 0]
+Cumulated Boltzmann 	[0.89502188326773291, 0.10497811673226665]
+The elected clusters figuring in the Pareto front [0]
+output_plots/adenineriboswitch,add.nonoptimals houpppppp
+Multiprobing/adenineriboswitch,add.optimals houpppppp
+ IPANMAP has been run successfully
+End of RNAstruct run for a sampling of adenineriboswitch,add rna   1000 structure for 1  conditions:                                             57.826513	
+RNAId  	tRNAphenylalanineyeast
+Sample construction from the Probing conditions ['tRNAphenylalanineyeastCMCT']
+Distance Matrix gneration for  1000 Structures started 
+Warning! redundant structures
+End of distance calculation between the structures in the sample                                              35.824534	
+Start Conditional  Boltzmann Probabilities calculation
+Boltzmann probabilities Calculated with success in :                                               0.191420	
+Start clustering process
+CLusters Diameters 	Cluster Number 	Diameter
+Cluster_Diameter 	0 	47
+Average distance 47.0
+MEA algorithm is running for ClusterNumber 0
+End of MEA                                              0.070030	
+Centroids calculation is done
+Cluster distances
+BZ_distance_btw_clusters 	defaultdict(None, {0: 23.39525162372286})
+***************************************verification bz Cluster  	 Centroids  	 CumulBE 	  defaultdict(None, {0: '(((((((..((((........)))).(((((.......))))).....(((((.......))))))))))))....'}) {0: 0.99999999999999645}
+************ Start clustering with 2  clusters*****************
+nbr_clusters 	2
+CLusters Diameters 	Cluster Number 	Diameter
+Cluster_Diameter 	0 	10
+Cluster_Diameter 	1 	47
+Average distance 28.5
+MEA algorithm is running for ClusterNumber 0
+End of MEA                                              0.074123	
+MEA algorithm is running for ClusterNumber 1
+End of MEA                                              0.073292	
+Centroids calculation is done
+Cluster distances
+BP_centoid_distances 	0 	1 	10
+BZ_distance_btw_clusters 	defaultdict(None, {0: 6.1057275937971696, 1: 26.040230348926215})
+************************************* Clustering done with  2  as the optimal number of clusters*********************************************************************
+defaultdict(None, {0: '(((((((..((((........)))).(((((.......))))).....(((((.......))))))))))))....', 1: '(((((((...(((....))).((.(.(((((.......))))).).))(((((.......))))))))))))....'})
+(((((((..((((........)))).(((((.......))))).....(((((.......))))))))))))....
+(((((((...(((....))).((.(.(((((.......))))).).))(((((.......))))))))))))....
+Centroids_Energies 	['-22.40', '-21.50']
+Considered conditions:  [1]
+Considered conditions:  [1]
+verification pareto values
+Cardinal condition values [1, 1]
+Cumulated Boltzmann 	[0.40804850758054517, 0.59195149241945444]
+The elected clusters figuring in the Pareto front [1]
+output_plots/tRNAphenylalanineyeast.nonoptimals houpppppp
+Multiprobing/tRNAphenylalanineyeast.optimals houpppppp
+ IPANMAP has been run successfully
+End of RNAstruct run for a sampling of tRNAphenylalanineyeast rna   1000 structure for 1  conditions:                                             51.101161	
